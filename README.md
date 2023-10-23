@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arthuruan
-- 👀 I’m interested in web and mobile development
+- 👀 I’m interested in web, mobile development and AI
 - 🌱 I’m currently learning more about serveless AWS, Node, Go, React, Swift and more.
 - 💞️ I’m looking to collaborate in the creation of software that helps people and the world
 - 📫 How to reach me arthuruanbf@gmail.com
